@@ -51,13 +51,13 @@ Ensure that you create AccessKey from your AWS Account configure AWS Credential 
   Default output format [None]: json
   ```
 
-### Terraform Setup
+### This will provision the sagemaker Domain, User profile
 
 This will create S3 Bucket, DynamoDB lock Tables
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/aws-data-usergroup-bangalore/aws-dugb-sagemaker-tfsetup.git
+   git clone https://github.com/aws-data-usergroup-bangalore/aws-dugb-sagemaker-beginner.git
    ```
 2. Run Terraform init to Check the provider loaded as expected
    ``` 
