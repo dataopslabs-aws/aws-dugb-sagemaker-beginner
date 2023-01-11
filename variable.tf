@@ -9,6 +9,6 @@ variable "sm_subnets" {
 }
 
 # Make a change according to your Security Groups
-variable "sm_subnet_1" {
-  default = "subnet-59343357"
+variable "sm_sec_group" {
+  default = "sg-12345678"
 }
