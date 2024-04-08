@@ -12,7 +12,7 @@
 
 <br />
 <div align="center">
-    <img src="https://raw.githubusercontent.com/aws-data-usergroup-bangalore/aws-dugb-images/main/aws-dugb.png" width="300">
+    <img src="https://raw.githubusercontent.com/dataopslabs-aws/aws-dugb-sagemaker-tfsetup/main/aws-dugb1.png" width="300">
 </div>
 
 <!-- TABLE OF CONTENTS -->
